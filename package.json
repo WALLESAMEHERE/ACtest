@@ -1,0 +1,13 @@
+{
+  "name": "Zagadka",
+  "version": "0.0.1",
+  "description": "Zagadka",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^1.7.4"
+  }
+}
